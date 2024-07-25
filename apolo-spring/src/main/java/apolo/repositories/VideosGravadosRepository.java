@@ -1,4 +1,4 @@
-package apolo.repositorys;
+package apolo.repositories;
 
 import java.util.UUID;
 
